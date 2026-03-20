@@ -1,4 +1,4 @@
-20+ years in search, front-end, and UX design. Previously 16+ years as Senior SEO Strategist & UX Designer at a leading medical association. Enjoying the SEO Community(https://theseocommunity.com/) and the helpful, kind people there. 
+20+ years in search, front-end, and UX design. Previously 16+ years as Senior SEO Strategist & UX Designer at a leading medical association. Enjoying [the SEO Community](https://theseocommunity.com/) and the helpful, kind people there. 
 
 * * *
 
