@@ -1,18 +1,12 @@
 ## Hi, I’m Garrett Nafzinger
 
-I build websites, improve search visibility, and help teams make better decisions with cleaner data.
-
-I run [Garrett Digital](https://www.garrettdigital.com/), where I work across SEO, Google Ads, analytics, UX, front-end, and web development. A lot of my work sits in the overlap between strategy and implementation. That might mean planning site architecture, fixing tracking, improving internal search, cleaning up product data, building in WordPress or Astro, or figuring out why reporting does not match reality.
-
-Before Garrett Digital, I spent 16 years at the American Academy of Family Physicians. My work there evolved from internet support and QA into UX, front-end, analytics, and SEO. That mix still shapes how I work. I care about clear systems, better user experience, and practical solutions that hold up in the real world.
-
-Lately, I have also been spending a lot of time building faster workflows with AI tools. That includes working in Claude Code and VS Code, building and hardening Astro site generators, improving reusable templates, documenting edge cases, and using AI systems to speed up research, implementation, QA, and content operations without lowering the bar.
+I build websites, improve search visibility, and help teams make data-driven decisions. I run Garrett Digital, where I work across SEO, Google Ads, analytics, UX, front-end, and web development. Before that, I spent 16 years at the American Academy of Family Physicians, moving from internet support and QA into UX, front-end, analytics, and SEO. That mix still shapes how I work today, especially on projects where strategy, tech, implementation, and measurement all need to line up. 
 
 ### Connect
 
 <table>
   <tr>
-    <td>🌐 <a href="https://www.garrettdigital.com/">Website</a></td>
+    <td>🌐 <a href="https://www.garrettdigital.com/">Garrett Digital site</a></td>
     <td>💼 <a href="https://www.linkedin.com/in/gnafzinger/">LinkedIn</a></td>
   </tr>
   <tr>
@@ -21,7 +15,6 @@ Lately, I have also been spending a lot of time building faster workflows with A
   </tr>
 </table>
 
-I also enjoy [The SEO Community](https://theseocommunity.com/) and the thoughtful, generous people there.
 
 ### What I work on
 
@@ -41,7 +34,9 @@ I also enjoy [The SEO Community](https://theseocommunity.com/) and the thoughtfu
 - Internal search and recommendation systems
 - Better reporting pipelines across SEO, Ads, and analytics
 - Making websites easier to manage without making them harder to use
+- [The SEO Community](https://theseocommunity.com/) and the thoughtful, generous people there.
+
 
 ### Outside of work
 
-Cycling, softball, and travel when possible. Two labs, one chocolate and one yellow. Music, documentaries, good coffee, and tinkering with whatever tech I have not tried yet.
+Cycling, softball, and travel when possible. Two labs, one chocolate and one yellow. Music, documentaries, good coffee, and tinkering with new tech, AI, etc.
