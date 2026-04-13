@@ -1,6 +1,6 @@
 ## Hi, I’m Garrett
 
-I build websites, improve search visibility, and help teams make better decisions with cleaner data. I run Garrett Digital, where I work across SEO, Google Ads, analytics, UX, front-end, and web development. Before that, I spent 16 years at the American Academy of Family Physicians, where my work grew from internet support and QA into UX, front-end, analytics, and SEO. That mix still shapes how I work today, especially on projects where strategy, implementation, and measurement all need to line up.
+I build websites, improve search visibility, and help teams make better decisions with cleaner data. I run Garrett Digital, where I work across SEO, Google Ads, analytics, UX, front-end, and web development. Before that, I spent 16 years at the American Academy of Family Physicians, where my work grew from internet support and QA into UX, front-end, analytics, and SEO. That background still shapes how I work today, especially on projects where strategy, implementation, and measurement need to line up.
 
 ### Connect
 
@@ -17,22 +17,22 @@ I build websites, improve search visibility, and help teams make better decision
 
 ### What I work on
 
-- SEO strategy, technical SEO, and content structure
-- Google Ads, including Shopping and Performance Max
-- GA4, Google Tag Manager, dashboards, attribution, and reporting cleanup
-- WordPress, Astro, front-end development, and reusable site templates
-- E-commerce SEO, product data, feeds, and measurement
-- Internal search, faceted navigation, and search experience
-- Data pipelines, QA, and documentation
+- SEO and technical SEO
+- Google Ads
+- Analytics and measurement
+- Web design and development
+- E-commerce, internal search, and site structure
+- QA, troubleshooting, and documentation
 
-### Current interests
+### Lately
 
-- Hardening Astro site generators and starter templates
-- AI systems that help with implementation, QA, and research
-- Better internal search and recommendation experiences
-- Cleaner reporting pipelines across SEO, Ads, and analytics
-- [The SEO Community](https://theseocommunity.com/) and the thoughtful, generous people there
+- Building and hardening Astro site generators
+- Working in Claude Code and VS Code
+- Improving reusable templates and workflows
+- Exploring AI systems for research, QA, and implementation
+- Thinking about better reporting and search experiences
+- Spending time in [The SEO Community](https://theseocommunity.com/)
 
 ### Outside of work
 
-Cycling, softball, and travel when possible. Two labs, one chocolate and one yellow. Music, documentaries, good coffee, and tinkering with new tech.
+Cycling, softball, and travel when possible. Two labs, one chocolate and one yellow. Music, documentaries, good coffee, and kind people.
