@@ -1,6 +1,7 @@
 ## Hi, I’m Garrett
 
 I build websites, improve search visibility, and help teams make better decisions with cleaner data. I run Garrett Digital, where I work across SEO, Google Ads, analytics, UX, front-end, and web development. 
+
 Before that, I spent 16 years at the American Academy of Family Physicians, where my work grew from internet support and QA into UX, front-end, analytics, and SEO. That background still shapes how I work today, especially on projects where strategy, implementation, and measurement need to line up.
 
 ### Connect
