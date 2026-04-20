@@ -38,3 +38,10 @@ Before that, I spent 16 years at the American Academy of Family Physicians, wher
 ### Outside of work
 
 Cycling, softball, and travel when possible. Two labs, one chocolate and one yellow. Music, documentaries, good coffee, and kind people.
+
+## 📝 Latest from Garrett Digital
+
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
+
+→ [View all posts](https://www.garrettdigital.com/blog/)
