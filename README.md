@@ -42,6 +42,11 @@ Cycling, softball, and travel when possible. Two labs, one chocolate and one yel
 ## 📝 Latest from Garrett Digital
 
 <!-- BLOG-POSTS:START -->
+- [How to Register a Domain on Cloudflare](https://www.garrettdigital.com/blog/register-domain-cloudflare/)
+- [How I Used Two AIs to Build an Astro Site Generator with Laravel](https://www.garrettdigital.com/blog/build-website-app/)
+- [E-commerce Content Strategy: What 379 Product Keywords Reveal About Ranking in 2026](https://www.garrettdigital.com/blog/ecommerce-content-strategy/)
+- [How Category &amp; Subcategory Pages Drive E-Commerce Rankings](https://www.garrettdigital.com/blog/category-ecommerce-rankings/)
+- [Astro and GA4: Why Pageview Tracking Breaks &amp; How to Fix It](https://www.garrettdigital.com/blog/astro-ga4-pageview-tracking/)
 <!-- BLOG-POSTS:END -->
 
 → [View all posts](https://www.garrettdigital.com/blog/)
