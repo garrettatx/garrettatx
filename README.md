@@ -42,11 +42,11 @@ Cycling, softball, and travel when possible. Two labs, one chocolate and one yel
 ## 📝 Latest from Garrett Digital
 
 <!-- BLOG-POSTS:START -->
+- [What WordPress Developers Should Know Before Building With Astro](https://www.garrettdigital.com/blog/astro-for-wordpress-developers/)
 - [How I Used Two AIs to Build an Astro Site Generator with Laravel](https://www.garrettdigital.com/blog/build-website-app/)
 - [E-commerce Content Strategy: What 379 Product Keywords Reveal About Ranking in 2026](https://www.garrettdigital.com/blog/ecommerce-content-strategy/)
 - [Are Your E-Commerce Categories Built for the Business or the Customer?](https://www.garrettdigital.com/blog/category-ecommerce-rankings/)
 - [Astro and GA4: Why Pageview Tracking Breaks &amp; How to Fix It](https://www.garrettdigital.com/blog/astro-ga4-pageview-tracking/)
-- [Product Feed Management for E-commerce: A Decision Guide](https://www.garrettdigital.com/blog/product-feed-strategy/)
 <!-- BLOG-POSTS:END -->
 
 → [View all posts](https://www.garrettdigital.com/blog/)
