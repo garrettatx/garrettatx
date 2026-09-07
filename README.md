@@ -42,11 +42,11 @@ Cycling, softball, and travel when possible. Two labs, one chocolate and one yel
 ## 📝 Latest from Garrett Digital
 
 <!-- BLOG-POSTS:START -->
+- [Three Places a Therapy Practice Can Appear in Local Search](https://www.garrettdigital.com/blog/therapy-local-search/)
+- [Getting Products Found in AI Search](https://www.garrettdigital.com/blog/ecommerce-ai-search/)
 - [Why AI Service Flyers All Look the Same](https://www.garrettdigital.com/blog/ai-service-flyers/)
 - [Should You Start a Therapy Group](https://www.garrettdigital.com/blog/therapy-group-math/)
 - [Therapist Website Homepage Checklist](https://www.garrettdigital.com/blog/therapist-homepage/)
-- [Internal Linking That Helps People Find the Right Page](https://www.garrettdigital.com/blog/internal-linking/)
-- [Left-Aligned Text for Readable Web Content](https://www.garrettdigital.com/blog/left-aligned-text/)
 <!-- BLOG-POSTS:END -->
 
 → [View all posts](https://www.garrettdigital.com/blog/)
