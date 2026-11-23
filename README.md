@@ -42,11 +42,11 @@ Cycling, softball, and travel when possible. Two labs, one chocolate and one yel
 ## 📝 Latest from Garrett Digital
 
 <!-- BLOG-POSTS:START -->
+- [Connecting Website Lead Sources to JobTread](https://www.garrettdigital.com/blog/website-lead-source-jobtread/)
 - [Google Search Console Alerts for Traffic Drops](https://www.garrettdigital.com/blog/gsc-traffic-alerts/)
 - [Connecting LeagueApps to a CRM and a WordPress Website](https://www.garrettdigital.com/blog/leagueapps-integration/)
-- [How to Send Angi Leads to JobTread Without Losing Source Data](https://www.garrettdigital.com/blog/angi-leads-to-jobtread/)
+- [Angi to JobTread Integration with Zapier](https://www.garrettdigital.com/blog/angi-leads-to-jobtread/)
 - [Three Places a Therapy Practice Can Appear in Local Search](https://www.garrettdigital.com/blog/therapy-local-search/)
-- [Getting Products Found in AI Search](https://www.garrettdigital.com/blog/ecommerce-ai-search/)
 <!-- BLOG-POSTS:END -->
 
 → [View all posts](https://www.garrettdigital.com/blog/)
